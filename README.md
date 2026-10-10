@@ -28,11 +28,40 @@ career interests, and projects in a clean and responsive layout.
 - Hover effects and smooth navigation
 
 ## Project Structure
-- index.html — Website structure and content
-- style.css — Styling and responsive design
-- images/ — Profile and project images
-- screenshots/ — Project screenshots
-- report/ — Project documentation
+## 📁 Project Structure
+
+```text
+devixo-portfolio-task/
+│
+├── portfolio/
+│   ├── images/
+│   │   ├── profile.png
+│   │   ├── project1.png
+│   │   ├── project2.png
+│   │   └── project3.png
+│   │
+│   ├── index.html
+│   └── style.css
+│
+├── report/
+│   └── Project-Documentation.pdf
+│
+├── screenshots/
+│   ├── about.png
+│   ├── contact.png
+│   ├── css.png
+│   ├── education.png
+│   ├── footer.png
+│   ├── home.png
+│   ├── html.png
+│   ├── laptop.png
+│   ├── mobile.png
+│   ├── projects.png
+│   ├── skills.png
+│   └── tablet.png
+│
+└── README.md
+```
 
 ## Screenshots
 ![website](screenshots/laptop.png)
